@@ -1,0 +1,5 @@
+;; vim: ft=scheme
+
+(standard-extension
+ 'hydra
+ "0.0.0")

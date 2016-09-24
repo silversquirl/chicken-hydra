@@ -1,0 +1,8 @@
+;; vim: ft=scheme
+
+((author "Samadi van Koten")
+ (synopsis "A stupid-simple database adapter")
+ (license "MIT")
+ (category db)
+
+ (needs dbi matchable))
