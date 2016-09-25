@@ -49,5 +49,7 @@ Currently, Hydra has a very limited featureset:
 Things that are planned, but not yet implemented:
 
   - Update existing records
+  - Remove records
+  - List/vector support
   - Create database schemas
 
